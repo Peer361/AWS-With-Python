@@ -1,1 +1,1 @@
-This repositorie Consits of Assignments of AWS-WITH-PYTHON (PRIDE) 
+This repositorie Consists of Assignments of AWS-WITH-PYTHON (PRIDE) 
